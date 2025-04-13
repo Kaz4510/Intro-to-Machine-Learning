@@ -1,6 +1,6 @@
 "# Intro-to-Machine-Learning" 
 
-This page explores the meaning and workings of Hierarchical Clustering in MAchine Learning. 
+This page explores the meaning and workings of Hierarchical Clustering in Machine Learning. 
 Continue on with the jupyter-notebook.
 
 References:
